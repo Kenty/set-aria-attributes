@@ -1,5 +1,5 @@
 {
-  "name": "dm-attributes",
+  "name": "set-aria-attributes",
   "version": "1.0.0",
   "description": "A light library for assigning multiple attributes to a single element at a time.",
   "main": "index.js",
