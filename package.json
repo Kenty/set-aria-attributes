@@ -1,0 +1,21 @@
+{
+  "name": "dm-attributes",
+  "version": "1.0.0",
+  "description": "A light library for assigning multiple attributes to a single element at a time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mocha": "mocha test/*.js 2> /dev/null"
+  },
+  "author": "Kenta Hoshino <kent6223@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jsdom": "^2.0.29",
+    "@types/mocha": "^2.2.35",
+    "@types/power-assert": "^1.4.29",
+    "jsdom": "^9.9.1",
+    "mocha": "^3.2.0",
+    "power-assert": "^1.4.2",
+    "typescript": "^2.1.4"
+  }
+}
